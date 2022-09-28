@@ -1,3 +1,4 @@
+<script type="text/javascript" src="processing.js"></script>
 boolean buttonUp = false;
 boolean buttonDown = false; 
 boolean buttonHelp = false;
