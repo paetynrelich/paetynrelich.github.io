@@ -13,4 +13,4 @@
             
 ![demo](https://user-images.githubusercontent.com/85192568/192883444-a343ab08-cf4c-49ce-b8e0-49810dfbe66a.gif)
 
-<canvas data-processing-sources="p1.paetyn_relich.pde"></canvas>
+<canvas data-processing-sources="p1_paetyn_relich.pde"></canvas>
