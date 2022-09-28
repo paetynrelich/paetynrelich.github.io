@@ -1,5 +1,3 @@
-<script type="text/javascript" src="processing.js"></script>
-
 # Demo
 
 # Why?
