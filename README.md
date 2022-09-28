@@ -1,6 +1,6 @@
 # Demo
 
-# Why?
+## Why?
 - Easier to use
   - Only press one button # indented 2 spaces
 * Displays:      # alternate bullet syntax
